@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ibrahim-coder0507/Simple-server/issues"
   },
-  "homepage": "https://github.com/Ibrahim-coder0507/Simple-server#readme"
+  "homepage": "https://github.com/Ibrahim-coder0507/Simple-server#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
